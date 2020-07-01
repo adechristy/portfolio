@@ -170,8 +170,8 @@ header .wrapper ul li a:hover {
     background-color: #7272DD;
     color: white;
     text-align: center;
-    padding: 15px 10px;
-    height: 150vh;
+    padding: 25px 10px;
+    height: 130vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -187,8 +187,8 @@ header .wrapper ul li a:hover {
     text-transform: uppercase;
     border-bottom: 7px solid white;
     display: inline-block;
-    padding-bottom: 7px;
-    margin-bottom: 40px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
 }
 
 .Karya .wrapper .wrapper-karya {
